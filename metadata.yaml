@@ -1,0 +1,30 @@
+_repo: The-Book-Bills-of-NarcissusAn-Account-Rendered-by-Richard-Le-Gallienne_10826
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Gallienne, Richard
+    aliases:
+    - LeGallienne, Richard
+    - Gallienne, Richard Le
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '246'
+    url: http://www.gutenberg.org/2009/agents/246
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- GITenberg
+title: 'The Book-Bills of Narcissus
+
+  An Account Rendered by Richard Le Gallienne'
+url: http://www.gutenberg.org/ebooks/10826
